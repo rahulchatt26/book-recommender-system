@@ -1,3 +1,11 @@
+#
+Books.csv
+Ratings.csv
+Users.csv
+models/*
+bookrecommend
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
